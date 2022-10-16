@@ -1,0 +1,15 @@
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.csproj.AssemblyReference.cache
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.AssemblyInfoInputs.cache
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.AssemblyInfo.cs
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.csproj.CoreCompileInputs.cache
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\bin\Debug\net6.0\Задачи_2_4_6_8.exe
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\bin\Debug\net6.0\Задачи_2_4_6_8.deps.json
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\bin\Debug\net6.0\Задачи_2_4_6_8.runtimeconfig.json
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\bin\Debug\net6.0\Задачи_2_4_6_8.dll
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\bin\Debug\net6.0\Задачи_2_4_6_8.pdb
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.dll
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\refint\Задачи_2_4_6_8.dll
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.pdb
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\Задачи_2_4_6_8.genruntimeconfig.cache
+C:\Users\Tom New\Desktop\HomeWork_1\Задачи_2_4_6_8\obj\Debug\net6.0\ref\Задачи_2_4_6_8.dll
